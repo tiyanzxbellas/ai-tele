@@ -1,5 +1,5 @@
 export default {
-  telegramBotToken: '8535593654:AAEaEddzmyzVxkwWPy1l8JiHT7UfPZ-pOtA',
+  telegramBotToken: ':6322738178:AAG2nxNLoO8upLC4QDY7I-A_rLVGSL6L4Kk',
   ai: {
     baseURL: 'https://betatestervueui2-b.hf.space/v1',
     apiKey: 'sk-843e3f05f05eacfe-55n2je-f2c2b844',
